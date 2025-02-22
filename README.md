@@ -1,4 +1,5 @@
 # Link Inspector Integration
+
 ![image](assets/linkspector_crop.png)
 
 Link Inspector is an integration for the Telex platform that monitors internal
@@ -59,5 +60,3 @@ ngrok http 8000
 ![image](assets/description.png)
 ![image](assets/settings.png)
 ![image](assets/linkspector_message.png)
-
-
